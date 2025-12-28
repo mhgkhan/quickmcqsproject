@@ -1,0 +1,9 @@
+/app
+  /home          // Home Page
+  /test          // Test Page
+  /create-test   // Create Test Page
+  /result        // Result Page
+/lib             // Database connection, helpers
+/models          // MongoDB models (Question, Test)
+/components      // Reusable components (QuestionCard, Timer, Button)
+/public          // Images, icons
